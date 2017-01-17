@@ -1,4 +1,28 @@
 \select@language {english}
 \contentsline {section}{\numberline {}Introduction}{2}
-\contentsline {section}{\numberline {}1: The continent of Malidraxies}{4}
-\contentsline {section}{\numberline {}2: Prehistory}{4}
+\contentsline {section}{\numberline {}1: History}{4}
+\contentsline {subsection}{\numberline {2.1}Prehistory}{4}
+\contentsline {subsubsection}{The old gods}{4}
+\contentsline {subsection}{\numberline {2.2}The war}{4}
+\contentsline {subsubsection}{Instigation}{4}
+\contentsline {subsubsection}{The five inflame}{4}
+\contentsline {subsubsection}{The artifacts of Drallnir}{4}
+\contentsline {subsection}{\numberline {2.3}New world}{4}
+\contentsline {subsubsection}{The six unchanged}{4}
+\contentsline {subsubsection}{The followers of Drall}{4}
+\contentsline {section}{\numberline {}2: The world}{4}
+\contentsline {subsection}{\numberline {3.1}Phaalner}{5}
+\contentsline {subsection}{\numberline {3.2}Grend}{5}
+\contentsline {subsection}{\numberline {3.3}Seramur}{5}
+\contentsline {subsection}{\numberline {3.4}Seramir}{5}
+\contentsline {subsection}{\numberline {3.5}The effects of the war}{5}
+\contentsline {subsection}{\numberline {3.6}Malidraxies}{5}
+\contentsline {section}{\numberline {}3: The other planes}{5}
+\contentsline {section}{\numberline {}4: Character races}{5}
+\contentsline {section}{\numberline {}5: Character classes}{5}
+\contentsline {section}{\numberline {}6: Mutations}{5}
+\contentsline {section}{\numberline {}7: Magic}{5}
+\contentsline {section}{\numberline {}8: Equipment}{5}
+\contentsline {section}{\numberline {}9: Life in Nixera}{5}
+\contentsline {section}{\numberline {}10: Magic items}{5}
+\contentsline {section}{\numberline {}11: Monsters}{5}
