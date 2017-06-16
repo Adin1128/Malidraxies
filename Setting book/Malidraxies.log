@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.11.14)  6 MAY 2017 07:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.11.14)  16 JUN 2017 19:31
 entering extended mode
 **./Malidraxies.tex
 (Malidraxies.tex
@@ -566,25 +566,51 @@ Overfull \hbox (4.30548pt too wide) in paragraph at lines 132--133
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[6] [7] [8 <./TheAstralSea.png>] (Malidraxies.aux) ) 
+[6] <Baimenhu1st.png, id=32, 2730.2pt x 1766.6pt>
+File: Baimenhu1st.png Graphic file (type png)
+ <use Baimenhu1st.png>
+Package pdftex.def Info: Baimenhu1st.png used on input line 147.
+(pdftex.def)             Requested size: 409.51233pt x 264.97856pt.
+
+Overfull \hbox (64.51233pt too wide) in paragraph at lines 147--148
+ [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Baimenhu2nd.png, id=33, 1766.6pt x 1734.48pt>
+File: Baimenhu2nd.png Graphic file (type png)
+ <use Baimenhu2nd.png>
+Package pdftex.def Info: Baimenhu2nd.png used on input line 154.
+(pdftex.def)             Requested size: 353.31374pt x 346.88986pt.
+
+Overfull \hbox (8.31374pt too wide) in paragraph at lines 154--155
+ [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[7] [8 <./TheAstralSea.png>] [9 <./Baimenhu1st.png>] [10 <./Baimenhu2nd.png>]
+(Malidraxies.aux) ) 
 Here is how much of TeX's memory you used:
- 2962 strings out of 493334
- 37725 string characters out of 3139254
- 108971 words of memory out of 3000000
- 6431 multiletter control sequences out of 15000+200000
+ 2974 strings out of 493334
+ 37939 string characters out of 3139254
+ 109988 words of memory out of 3000000
+ 6441 multiletter control sequences out of 15000+200000
  11849 words of font info for 46 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  40i,6n,25p,1091b,265s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.
-9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/
-type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
-onts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
-mr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb
->
-Output written on Malidraxies.pdf (9 pages, 156461 bytes).
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.p
+fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on Malidraxies.pdf (11 pages, 7167514 bytes).
 PDF statistics:
- 59 PDF objects out of 1000 (max. 8388607)
+ 69 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
